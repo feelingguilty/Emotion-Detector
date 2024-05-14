@@ -21,12 +21,6 @@ Train the model using the provided scripts or notebooks. Experiment with differe
 ## Evaluation
 Evaluate the model's performance using evaluation metrics such as accuracy, precision, recall, and F1-score. This helps in understanding the model's strengths and weaknesses.
 
-## Deployment
-Deploy the trained model for inference in your applications. You can deploy it as a REST API, integrate it into mobile applications, or use it in web applications.
-
-## Contributing
-Contributions to this project are welcome and appreciated! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
-
 ## Acknowledgments
 - Thanks to the creators of TensorFlow and Keras for providing powerful tools for deep learning.
 - Special thanks to the open-source community for contributing datasets, libraries, and resources.
